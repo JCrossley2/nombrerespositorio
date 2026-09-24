@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="CodeLiteWorkspace" Version="10000">
+  <Project Name="Pila" Path="PilaYCola/PilaYCola.project" Active="Yes"/>
+  <Project Name="Cola" Path="Cola/Cola.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="Ejemplo01" ConfigName="Debug"/>
+      <Project Name="Ejemplo02" ConfigName="Debug"/>
+      <Project Name="Ejemplo03" ConfigName="Debug"/>
+      <Project Name="Ejemplo04" ConfigName="Debug"/>
+      <Project Name="Ejemplo05" ConfigName="Debug"/>
+      <Project Name="Ejemplo06" ConfigName="Debug"/>
+      <Project Name="Ejemplo07" ConfigName="Debug"/>
+      <Project Name="Ejemplo08" ConfigName="Debug"/>
+      <Project Name="EjemploPasoPorReferencia" ConfigName="Debug"/>
+      <Project Name="EjemploPasoDeArgumentos" ConfigName="Debug"/>
+      <Project Name="Ejemplo09" ConfigName="Debug"/>
+      <Project Name="Ejemplo10" ConfigName="Debug"/>
+      <Project Name="Ejemplo11" ConfigName="Debug"/>
+      <Project Name="Ejemplo12" ConfigName="Debug"/>
+      <Project Name="Pila" ConfigName="Debug"/>
+      <Project Name="Cola" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
